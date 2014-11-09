@@ -1,0 +1,1 @@
+Anonymized data dump of all creative commons questions and answers from the Stack Exchange family of websites at http://stackexchange.com/sites . XML format, 7zipped, released every 3 months.
